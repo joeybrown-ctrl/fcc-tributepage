@@ -1,3 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+html {
+    /* this sets the base font-size to make rem calculation easier, 1rem will now equal 10px, 1.5rem = 15px, 2rem = 10px, etc*/
+    font-size: 10px;
+}
+
 body {
-    background-color:brown;
+    background-color:blanchedalmond;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: brown;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    /* setting margin-bottom to 0 on an h3 removes the whitespace from underneath*/
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 3.25rem;
+}
+
+#main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: peachpuff;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+    background-color:blanchedalmond;
+    padding-top: 20px;
+    margin: 0;
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    list-style: none;
+}
+
+li {
+    margin: 16px auto;
+}
+
+strong {
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
 }
