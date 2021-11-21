@@ -11,7 +11,7 @@
 ![Image of top half of fcc-tributepage](https://raw.githubusercontent.com/joeybrown-ctrl/fcc-tributepage/main/Assets/tribute.png)
 <hr>
 
-Here is my version of FreeCodeCamp's first project for their Responsive Web Design module. The [user stories](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) for this project indicate a general layout of the page, but the aesthetic was up to me. I wound up doing a tribute to my beloved cat, Tank, because why not? This was built using HTML5 and CSS, with a free google font. It was submitted via [Codepen](https://codepen.io/joeyBrown91/pen/MWvRajV) to FreeCodeCamp for approval.
+Here is my version of FreeCodeCamp's first project for their Responsive Web Design module. The [user stories](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) for this project indicate a general layout of the page, but the aesthetic was up to me. I wound up doing a tribute to my beloved cat Tank because why not? This was built using HTML5 and CSS, with a free google font. It was submitted via [Codepen](https://codepen.io/joeyBrown91/pen/MWvRajV) to FreeCodeCamp for approval.
 
 ## Built With
 
